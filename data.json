@@ -1,0 +1,144 @@
+{
+  "apps" : [
+    {
+      "name": "Self Hosted",
+      "items": [
+        {"name":"Homepage","url":"https://home.pseudoyu.com","icon":"home-lightbulb-outline"},
+        {"name":"Blog","url":"https://www.pseudoyu.com","icon":"post-outline"},
+        {"name":"Running Page","url":"https://running.pseudoyu.com","icon":"run-fast"},
+        {"name":"Cusdis","url":"https://comments.pseudoyu.com/dashboard/project/27a61667-fd43-4a0d-934d-f45b944489ee","icon":"comment-text-multiple-outline"},
+        {"name":"Umami","url":"https://data.pseudoyu.com","icon":"chart-areaspline"},
+        {"name":"n8n","url":"https://life.pseudoyu.com","icon":"sitemap-outline"},
+        {"name":"matomo","url":"https://matomo.pseudoyu.com","icon":"google-analytics"},
+        {"name":"zLib Searcher","url":"https://zlib.pseudoyu.com","icon":"book-minus-multiple-outline"},
+        {"name":"SubConverter Web","url":"https://subweb.pseudoyu.com","icon":"web-sync"}
+      ]
+    },
+    {
+      "name": "Third Party",
+      "items": [
+        {"name":"xLog","url":"https://xlog.pseudoyu.com","icon":"post"},
+        {"name":"xSync","url":"https://xsync.app/platforms","icon":"cloud-sync-outline"},
+        {"name":"xChar","url":"https://xchar.app/pseudoyu","icon":"account-details-outline"},
+        {"name":"xFeed","url":"https://xfeed.app/u/pseudoyu","icon":"comment-quote-outline"},
+        {"name":"Pinboard","url":"https://pinboard.in/u:pseudoyu","icon":"bookmark-box-outline"},
+        {"name":"Instapaper","url":"https://www.instapaper.com/u","icon":"book-open"},
+        {"name":"ListenNotes","url":"https://www.listennotes.com","icon":"podcast"},
+        {"name":"Wakatime","url":"https://wakatime.com/@pseudoyu","icon":"timer-settings-outline"},
+        {"name":"Search Stats","url":"https://search.google.com/search-console?resource_id=https%3A%2F%2Fwww.pseudoyu.com%2F","icon":"chart-bar"},
+        {"name":"Adguard DNS","url":"https://adguard-dns.io/zh_cn/dashboard/statistics/general?retention=HOURS_24","icon":"lan-pending"}
+      ]
+    },
+    {
+      "name": "Proxy And Monitor",
+      "items": [
+        {"name":"Services Uptime","url":"https://uptime.pseudoyu.com/status/services","icon":"robot-dead-outline"},
+        {"name":"Nginx Proxy Manager","url":"https://npm.pseudoyu.com/nginx/proxy","icon":"arrow-decision-outline"},
+        {"name":"Frp Dashboard","url":"https://frps.pseudoyu.com","icon":"lan"}
+      ]
+    },
+    {
+      "name": "VPS",
+      "items": [
+        {"name":"BandwagonHost","url":"https://bandwagonhost.com/services","icon":"server"},
+        {"name":"SpartanHost","url":"https://billing.spartanhost.net/clientarea.php","icon":"server-security"},
+        {"name":"V.PS","url":"https://vps.hosting/clientarea/","icon":"server-network"}
+
+      ]
+    }
+  ],
+  "bookmarks" : [
+    {
+      "category": "Infra",
+      "links": [
+        {
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2"
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.app/account/usage"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://app.supabase.com"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/dashboard"
+        },
+        {
+          "name": "Netlify",
+          "url": "https://app.netlify.com/teams/pseudoyu/overview"
+        },
+        {
+          "name": "Postmark",
+          "url": "https://postmarkapp.com"
+        }
+      ]
+    },
+    {
+      "category": "Surfing",
+      "links": [
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "name": "Bilibili",
+          "url": "https://www.bilibili.com"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Netflix",
+          "url": "https://www.netflix.com/"
+        },
+        {
+          "name": "Mastodon",
+          "url": "https://elk.zone/"
+        }
+      ]
+    },
+    {
+      "category": "Code",
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/pseudoyu"
+        },
+        {
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com/chat"
+        },
+        {
+          "name": "Crossbell",
+          "url": "https://crossbell.io/"
+        }
+      ]
+    },
+    {
+      "category": "Tool",
+      "links": [
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com"
+        },
+        {
+          "name": "TinyWow",
+          "url": "https://tinywow.com"
+        },
+                {
+          "name": "ToolBox",
+          "url": "https://tool.lu/c/developer"
+        },
+        {
+          "name": "Composerize",
+          "url": "https://www.composerize.com/"
+        }
+      ]
+    }
+  ]
+}
